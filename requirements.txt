@@ -1,0 +1,4 @@
+git+https://github.com/madig/HTLetterspacer@reduce-better
+fontmake
+statmake
+ninja

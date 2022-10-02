@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="482"/>
+  <unicode hex="00B5"/>
+  <anchor x="242" y="-202" name="bottom"/>
+  <anchor x="242" y="527" name="top"/>
+  <outline>
+    <component base="mu"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|eta</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/31 19:58:07</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

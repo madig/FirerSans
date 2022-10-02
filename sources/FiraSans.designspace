@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="900" default="400">
+      <map input="200" output="30"/>
+      <map input="300" output="58"/>
+      <map input="380" output="88"/>
+      <map input="400" output="92"/>
+      <map input="500" output="128"/>
+      <map input="600" output="142"/>
+      <map input="700" output="158"/>
+      <map input="800" output="178"/>
+      <map input="900" output="198"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="62" maximum="100" default="100">
+      <map input="62" output="82"/>
+      <map input="75" output="86"/>
+      <map input="100" output="100"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="FiraSans-SemiLight.ufo" name="Fira Sans SemiLight" familyname="Fira Sans" stylename="SemiLight">
+      <location>
+        <dimension name="Weight" xvalue="30"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="FiraSans-Regular.ufo" name="Fira Sans Regular" familyname="Fira Sans" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="92"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="FiraSans-Bold.ufo" name="Fira Sans Bold" familyname="Fira Sans" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="198"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="FiraSans-CondensedSemiLight.ufo" name="Fira Sans Condensed SemiLight" familyname="Fira Sans" stylename="Condensed SemiLight">
+      <location>
+        <dimension name="Weight" xvalue="30"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+    </source>
+    <source filename="FiraSans-Condensed.ufo" name="Fira Sans Condensed" familyname="Fira Sans" stylename="Condensed">
+      <location>
+        <dimension name="Weight" xvalue="92"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+    </source>
+    <source filename="FiraSans-CondensedBold.ufo" name="Fira Sans Condensed Bold" familyname="Fira Sans" stylename="Condensed Bold">
+      <location>
+        <dimension name="Weight" xvalue="198"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Fira Sans UltraLight" familyname="Fira Sans" stylename="UltraLight" filename="instances/FiraSans-UltraLight.ufo">
+      <location>
+        <dimension name="Weight" xvalue="30"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Light" familyname="Fira Sans" stylename="Light" filename="instances/FiraSans-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="58"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Book" familyname="Fira Sans" stylename="Book" filename="instances/FiraSans-Book.ufo">
+      <location>
+        <dimension name="Weight" xvalue="88"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Regular" familyname="Fira Sans" stylename="Regular" filename="instances/FiraSans-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="92"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Medium" familyname="Fira Sans" stylename="Medium" filename="instances/FiraSans-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans SemiBold" familyname="Fira Sans" stylename="SemiBold" filename="instances/FiraSans-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="142"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Bold" familyname="Fira Sans" stylename="Bold" filename="instances/FiraSans-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="158"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans ExtraBold" familyname="Fira Sans" stylename="ExtraBold" filename="instances/FiraSans-ExtraBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Black" familyname="Fira Sans" stylename="Black" filename="instances/FiraSans-Black.ufo">
+      <location>
+        <dimension name="Weight" xvalue="198"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans UltraLight Condensed" familyname="Fira Sans" stylename="UltraLight Condensed">
+      <location>
+        <dimension name="Weight" xvalue="30"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Light Condensed" familyname="Fira Sans" stylename="Light Condensed">
+      <location>
+        <dimension name="Weight" xvalue="58"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Book Condensed" familyname="Fira Sans" stylename="Book Condensed">
+      <location>
+        <dimension name="Weight" xvalue="88"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Regular Condensed" familyname="Fira Sans" stylename="Regular Condensed">
+      <location>
+        <dimension name="Weight" xvalue="92"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Medium Condensed" familyname="Fira Sans" stylename="Medium Condensed">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans SemiBold Condensed" familyname="Fira Sans" stylename="SemiBold Condensed">
+      <location>
+        <dimension name="Weight" xvalue="142"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Bold Condensed" familyname="Fira Sans" stylename="Bold Condensed">
+      <location>
+        <dimension name="Weight" xvalue="158"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans ExtraBold Condensed" familyname="Fira Sans" stylename="ExtraBold Condensed">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Fira Sans Black Condensed" familyname="Fira Sans" stylename="Black Condensed">
+      <location>
+        <dimension name="Weight" xvalue="198"/>
+        <dimension name="Width" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>4803DA92-1A3E-4D9F-95C8-015D3228BA2B</key>
+        <dict>
+          <key>HV</key>
+          <integer>198</integer>
+        </dict>
+        <key>A11F629A-ECF3-413E-B2EC-6C6F8C33A243</key>
+        <dict>
+          <key>HV</key>
+          <integer>95</integer>
+          <key>OH</key>
+          <integer>78</integer>
+          <key>OV</key>
+          <integer>101</integer>
+          <key>nV</key>
+          <integer>92</integer>
+          <key>oH</key>
+          <integer>74</integer>
+          <key>oV</key>
+          <integer>99</integer>
+        </dict>
+        <key>BCC09A48-EAE1-493E-95CB-92D2C26BC05D</key>
+        <dict>
+          <key>HV</key>
+          <integer>31</integer>
+          <key>OH</key>
+          <integer>29</integer>
+          <key>OV</key>
+          <integer>32</integer>
+          <key>nV</key>
+          <integer>30</integer>
+          <key>oH</key>
+          <integer>28</integer>
+          <key>oV</key>
+          <integer>31</integer>
+        </dict>
+        <key>F257A41E-77B2-4FB8-8247-C188CBBE1401</key>
+        <dict>
+          <key>HV</key>
+          <integer>206</integer>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HH</key>
+          <integer>158</integer>
+          <key>HV</key>
+          <integer>206</integer>
+          <key>OH</key>
+          <integer>146</integer>
+          <key>OV</key>
+          <integer>214</integer>
+          <key>nV</key>
+          <integer>198</integer>
+          <key>nd</key>
+          <integer>144</integer>
+          <key>oH</key>
+          <integer>142</integer>
+          <key>oV</key>
+          <integer>203</integer>
+        </dict>
+      </dict>
+      <key>org.statmake.additionalLocations</key>
+      <dict>
+        <key>Italic</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

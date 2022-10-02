@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="440"/>
+  <unicode hex="2265"/>
+  <outline>
+    <component base="greater" xOffset="14" yOffset="99"/>
+    <component base="minus" xOffset="-39" yOffset="-260"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>greater</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>greater</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/13 19:35:34</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

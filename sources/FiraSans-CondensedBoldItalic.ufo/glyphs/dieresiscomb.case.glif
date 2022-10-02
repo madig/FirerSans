@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="289" y="695" name="_top"/>
+  <anchor x="319" y="940" name="top"/>
+  <outline>
+    <component base="dieresis" xOffset="19" yOffset="126"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/20 10:21:56</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>488</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

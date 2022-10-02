@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth.sc" format="2">
+  <advance width="511"/>
+  <anchor x="194" y="0" name="bottom"/>
+  <anchor x="262" y="286" name="center"/>
+  <anchor x="270" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="-4" y="243" type="line"/>
+      <point x="265" y="243" type="line"/>
+      <point x="280" y="343" type="line"/>
+      <point x="52" y="343" type="line"/>
+      <point x="10" y="343" type="line"/>
+    </contour>
+    <component base="d.sc" xOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/18 10:43:50</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

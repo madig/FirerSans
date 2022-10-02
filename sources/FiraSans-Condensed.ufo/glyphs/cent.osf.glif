@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent.osf" format="2">
+  <advance width="391"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="241" y="527" name="top"/>
+  <outline>
+    <component base="cent"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>cent</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>cent</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/27 09:56:03</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

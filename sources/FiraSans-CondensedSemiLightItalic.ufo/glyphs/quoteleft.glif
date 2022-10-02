@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="186"/>
+  <unicode hex="2018"/>
+  <outline>
+    <component base="quotesinglbase" xScale="-1" yScale="-1" xOffset="198" yOffset="607"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|quotesinglbase</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|quotesinglbase</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/22 13:10:30</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

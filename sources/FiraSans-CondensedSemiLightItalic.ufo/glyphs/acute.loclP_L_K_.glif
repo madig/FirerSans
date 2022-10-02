@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.loclPLK" format="2">
+  <advance width="203"/>
+  <anchor x="145" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="233" y="751" type="line"/>
+      <point x="128" y="590" type="line"/>
+      <point x="145" y="578" type="line"/>
+      <point x="258" y="732" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/21 08:04:41</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge.tosf" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="246" y="662" type="line"/>
+      <point x="214" y="662" type="line"/>
+      <point x="63" y="333" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="397" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="635" type="line"/>
+      <point x="367" y="333" type="line"/>
+      <point x="230" y="26" type="line"/>
+      <point x="93" y="333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/28 12:12:58</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

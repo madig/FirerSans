@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral.tosf" format="2">
+  <advance width="460"/>
+  <outline>
+    <component base="integral" xOffset="54"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>integral.tf</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>integral.tf</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/16 10:13:00</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
